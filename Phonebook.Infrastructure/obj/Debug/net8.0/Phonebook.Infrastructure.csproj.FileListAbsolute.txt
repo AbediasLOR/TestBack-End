@@ -1,0 +1,15 @@
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.deps.json
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.pdb
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Domain.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Domain.pdb
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.AssemblyInfo.cs
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\Phoneboo.F4140CF5.Up2Date
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\refint\Phonebook.Infrastructure.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.pdb
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Infrastructure\obj\Debug\net8.0\ref\Phonebook.Infrastructure.dll

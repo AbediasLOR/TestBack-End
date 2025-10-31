@@ -1,0 +1,6 @@
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Phonebook.Tests
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Tests\obj\Debug\net8.0\Phonebook.Tests.csproj.AssemblyReference.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Tests\obj\Debug\net8.0\Phonebook.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Tests\obj\Debug\net8.0\Phonebook.Tests.AssemblyInfoInputs.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Tests\obj\Debug\net8.0\Phonebook.Tests.AssemblyInfo.cs
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Tests\obj\Debug\net8.0\Phonebook.Tests.csproj.CoreCompileInputs.cache

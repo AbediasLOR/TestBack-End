@@ -1,0 +1,22 @@
+services:
+  mongo:
+    image: mongo:7
+    ports: ['27017:27017']
+    volumes:
+      - mongo_data:/data/db
+
+  api:
+    build:
+      context: .
+      dockerfile: Phonebook.Api/Dockerfile
+    environment:
+      MongoSettings__ConnectionString: 'mongodb://mongo:27017'
+      MongoSettings__DatabaseName: 'phonebook_db'
+      MongoSettings__ContactsCollectionName: 'contacts'
+      ASPNETCORE_ENVIRONMENT: 'Development'
+    ports: ['8080:8080']
+    depends_on:
+      - mongo
+
+volumes:
+  mongo_data:

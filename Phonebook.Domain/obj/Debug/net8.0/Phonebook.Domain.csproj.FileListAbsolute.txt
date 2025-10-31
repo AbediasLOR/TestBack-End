@@ -1,0 +1,11 @@
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.deps.json
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.pdb
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfoInputs.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfo.cs
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\obj\Debug\net8.0\refint\Phonebook.Domain.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.pdb
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Domain\obj\Debug\net8.0\ref\Phonebook.Domain.dll

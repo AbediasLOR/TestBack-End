@@ -1,0 +1,17 @@
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.deps.json
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.pdb
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\bin\Debug\net8.0\Phonebook.Domain.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\bin\Debug\net8.0\Phonebook.Infrastructure.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\bin\Debug\net8.0\Phonebook.Domain.pdb
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\bin\Debug\net8.0\Phonebook.Infrastructure.pdb
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.csproj.AssemblyReference.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.AssemblyInfoInputs.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.AssemblyInfo.cs
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.csproj.CoreCompileInputs.cache
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\Phoneboo.813A2DA5.Up2Date
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\refint\Phonebook.Application.dll
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.pdb
+C:\Users\Abedias Ribeiro\Downloads\TesteSmartTech\PhonebookApi\Phonebook.Application\obj\Debug\net8.0\ref\Phonebook.Application.dll
