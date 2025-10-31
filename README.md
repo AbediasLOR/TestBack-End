@@ -20,6 +20,7 @@ PhonebookApi/
   Phonebook.Domain/         # Entidades de domínio (Contact, Address)
   Phonebook.Infrastructure/ # Mongo settings/context/repository
   Phonebook.Tests/          # Testes unitários (xUnit + Moq)
+  PhonebookApi.sln
   docker-compose.yml
   README.md
 ```
